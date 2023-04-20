@@ -1,6 +1,6 @@
 # Scooter-Rental
 
-#####A scooter rental service program is a software application designed to manage the rental of scooters to customers. The program includes features for managing reservations, tracking inventory, processing payments, and generating reports.
+A scooter rental service program is a software application designed to manage the rental of scooters to customers. The program includes features for managing reservations, tracking inventory, processing payments, and generating reports.
 
 The rental process usually starts with a customer making a reservation through the program. The customer can select the date and time they would like to rent a scooter, as well as the duration of the rental. Once the reservation is confirmed, the program will update the inventory to reflect the scooter's availability during the rental period.
 
